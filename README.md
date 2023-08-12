@@ -18,7 +18,8 @@ Frontend & Backend enthusiast
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/IT22603418Pradi-hub" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://linkedin.com/in/pradicksha-pradeepraj-b269721bb" target="blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+<p align="left"> <a href="https://www.github.com/IT22603418Pradi-hub" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://linkedin.com/in/pradicksha-pradeepraj-b269721bb" target="blank"><img align="up" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradicksha-pradeepraj-b269721bb" height="24" width="32" /></a> </p>
 
 ### Badges
 
@@ -28,6 +29,6 @@ Frontend & Backend enthusiast
 
 <a href="http://www.github.com/IT22603418Pradi-hub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22603418Pradi-hub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/IT22603418Pradi-hub"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=IT22603418Pradi-hub&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/IT22603418Pradi-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22603418Pradi-hub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
