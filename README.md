@@ -19,7 +19,8 @@ Frontend & Backend enthusiast
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/IT22603418Pradi-hub" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://linkedin.com/in/pradicksha-pradeepraj-b269721bb" target="blank"><img align="up" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradicksha-pradeepraj-b269721bb" height="24" width="32" /></a> </p>
+<a href="https://linkedin.com/in/pradicksha-pradeepraj-b269721bb" target="blank"><img align="up" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradicksha-pradeepraj-b269721bb" height="24" width="32" /></a>
+<a href="https://www.hackerrank.com/pradicksha1230" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pradicksha1230" height="36" width="48" /></a></p>
 
 ### Badges
 
