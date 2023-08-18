@@ -26,6 +26,6 @@
 
 <br> <h3>S T A T S</h3>
 
-<a href="http://www.github.com/Pradi-Hub"><img src="https://github-readme-stats.vercel.app/api?username=Pradi-Hub&show_icons=true&hide=&count_private=true&title_color=353093&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pradi-Hub's GitHub stats" /></a> <a href="http://www.github.com/Pradi-Hub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradi-Hub&stroke=ffffff&background=1c1917&ring=353093&fire=353093&currStreakNum=ffffff&currStreakLabel=353093&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Pradi-Hub"><img src="https://github-readme-stats.vercel.app/api?username=Pradi-Hub&show_icons=true&hide=&count_private=true&title_color=353093&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pradi-Hub's GitHub stats" height = "180" /></a> <a href="http://www.github.com/Pradi-Hub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradi-Hub&stroke=ffffff&background=1c1917&ring=353093&fire=353093&currStreakNum=ffffff&currStreakLabel=353093&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  height = "180"/></a>
 <p align="center">
 <a href="https://github.com/Pradi-Hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradi-Hub&langs_count=10&title_color=353093&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
