@@ -1,10 +1,7 @@
-
-
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Prism&size=40&duration=15&pause=1000&color=FFFFFF&background=36BCF700&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Pradicksha" alt="Typing SVG" /></a> </h1>
-
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=40&duration=15&pause=1000&color=FFFFFF&background=36BCF700&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Pradicksha+👾" alt="Typing SVG" /></a>  </h1>
 
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Prism&size=25&pause=1000&center=true&vCenter=true&width=435&lines=%3C%3C+Frontend+%26+Backend+enthusiast+%3E%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&center=true&vCenter=true&width=435&lines=%3C%3C+Frontend+%26+Backend+Enthusiast+%3E%3E" alt="Typing SVG" /></a>
 </h2>
 
 | Passionate about coding | Full Stack Developer |
