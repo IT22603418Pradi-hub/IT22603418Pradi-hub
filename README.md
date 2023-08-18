@@ -3,7 +3,7 @@
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&pause=1000&center=true&vCenter=true&width=435&lines=%3C%3C+Frontend+%26+Backend+Enthusiast+%3E%3E" alt="Typing SVG" /></a>
 </h2>
-<img align="right" alt="giphy" width="450" src="GIPHY">
+<img align="right" alt="giphy" width="450" src="giphy.gif">
 | Passionate about coding | Full Stack Developer |
 
 * 🌍  I'm based in Colombo, Sri Lanka
