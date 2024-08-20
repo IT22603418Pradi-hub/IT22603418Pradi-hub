@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [pradicksha1230@gmail.com](mailto:pradicksha1230@gmail.com)
-* 🧠  I'm currently learning Java Programming Language
+* 🧠  I'm currently learning Spring Boot
 
 <br><br><br><br><h3>S K I L L S</h3>
 
